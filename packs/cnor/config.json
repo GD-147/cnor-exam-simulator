@@ -1,0 +1,74 @@
+{
+  "examId": "cnor",
+  "brandName": "CNOR Exam Simulator",
+  "accessPassword": "CNORPREP",
+  "practiceChunkSize": 10,
+  "examFiles": [],
+  "sections": [
+    {
+      "id": "area1",
+      "label": "Competency Area I — Individualized Plan of Care Development",
+      "type": "mcq",
+      "domain": "Individualized Plan of Care Development",
+      "questionCount": 42,
+      "timeMin": 47,
+      "examFiles": []
+    },
+    {
+      "id": "area2",
+      "label": "Competency Area II — Intraoperative Patient Care and Safety",
+      "type": "mcq",
+      "domain": "Intraoperative Patient Care and Safety",
+      "questionCount": 49,
+      "timeMin": 55,
+      "examFiles": []
+    },
+    {
+      "id": "area3",
+      "label": "Competency Area III — Management of Personnel, Services, and Materials",
+      "type": "mcq",
+      "domain": "Management of Personnel, Services, and Materials",
+      "questionCount": 24,
+      "timeMin": 27,
+      "examFiles": []
+    },
+    {
+      "id": "area4",
+      "label": "Competency Area IV — Communication and Documentation",
+      "type": "mcq",
+      "domain": "Communication and Documentation",
+      "questionCount": 20,
+      "timeMin": 23,
+      "examFiles": []
+    },
+    {
+      "id": "area5",
+      "label": "Competency Area V — Infection Prevention and Control",
+      "type": "mcq",
+      "domain": "Infection Prevention and Control",
+      "questionCount": 33,
+      "timeMin": 37,
+      "examFiles": []
+    },
+    {
+      "id": "area6",
+      "label": "Competency Area VI — Emergency Identification and Management",
+      "type": "mcq",
+      "domain": "Emergency Identification and Management",
+      "questionCount": 17,
+      "timeMin": 19,
+      "examFiles": []
+    },
+    {
+      "id": "full",
+      "label": "Full-Length Practice Test",
+      "type": "mcq",
+      "questionCount": 200,
+      "timeMin": 225,
+      "examFiles": []
+    }
+  ],
+  "printables": [],
+  "theme": "dark",
+  "logoPath": "../packs/cnor/assets/logo.png?v=health-beacon"
+}
